@@ -1,5 +1,6 @@
 # Java AuthFix1.7.10 10/5/2025
-This is an unofficial fix **temp** for those who, even after updating java and are still having the auth issues
+This is an unofficial fix **temp** for those who, even after updating Java, are still having the auth issues.
+I did not create the fix this is only a guide for those who don't know ever step
 
 Step 1: Download updated Java Trust store Key (IS SAFE)
 Link: (https://github.com/caunt/Mojang-TrustStore/blob/main/mojang-trust.jks)
