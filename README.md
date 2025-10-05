@@ -6,7 +6,8 @@ Link: (https://github.com/caunt/Mojang-TrustStore/blob/main/mojang-trust.jks)
 
 Step 2: Add the .jks file to c:\ (or whatever is your main PC directory)
 
-Step 3: Add these Java Args in Technic Launcher under Launcher Options ---> Java Settings ---> "Java Args" (If you don't use technic just go to your normal java args in the minecraft launcher)
+Step 3: Add these Java Args in Technic Launcher under Launcher Options ---> Java Settings ---> "Java Args" 
+                    *(If you don't use technic just go to your normal java args in the minecraft launcher)
 -Djavax.net.ssl.trustStore="C:\mojang-trust.jks" 
 -Djavax.net.ssl.trustStorePassword=changeit 
 -Djdk.tls.client.protocols=TLSv1.2
