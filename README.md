@@ -1,4 +1,5 @@
 # Java AuthFix1.7.10 10/5/2025
+# This is a unoffical fix for those who even after updating java are still having the auth issues
 
 Step 1: Download updated Java Trust store Key (IS SAFE)
 Link: (https://github.com/caunt/Mojang-TrustStore/blob/main/mojang-trust.jks)
@@ -12,4 +13,3 @@ Step 3: Add these Java Args in Technic Launcher under Launcher Options ---> Java
 
 (IF YOU PUT THE .JKS FILE IN A DIFFERENT DRIVE OR DIRECTORY YOU WILL NEED TO CHANGE THE C:\mojang-trust.jks TO MATCH WHAT DIRECTORY YOU PUT THE FILE IN. IT IS BEST THAT YOU PUT THE FILE IN c:\ IF YOU HAVE THE ADMIN PERMS TO DO SO.)
 
-# This is a unoffical fix.
