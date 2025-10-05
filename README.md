@@ -1,4 +1,4 @@
-# AuthFix1.7.10
+# Java AuthFix1.7.10 10/5/2025
 
 Step 1: Download updated Java Trust store Key (IS SAFE)
 Link: (https://github.com/caunt/Mojang-TrustStore/blob/main/mojang-trust.jks)
