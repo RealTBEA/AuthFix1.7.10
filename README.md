@@ -12,4 +12,4 @@ Step 3: Add these Java Args in Technic Launcher under Launcher Options ---> Java
 
 (IF YOU PUT THE .JKS FILE IN A DIFFERENT DRIVE OR DIRECTORY YOU WILL NEED TO CHANGE THE C:\mojang-trust.jks TO MATCH WHAT DIRECTORY YOU PUT THE FILE IN. IT IS BEST THAT YOU PUT THE FILE IN c:\ IF YOU HAVE THE ADMIN PERMS TO DO SO.)
 
-# This is a unoffical fix. That worked in 1.7.10
+# This is a unoffical fix.
