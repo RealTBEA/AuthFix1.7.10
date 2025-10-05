@@ -1,7 +1,7 @@
 # AuthFix1.7.10
 
 Step 1: Download updated Java Trust store Key (IS SAFE)
-Link: is in my profile about me section
+Link: (https://github.com/caunt/Mojang-TrustStore/blob/main/mojang-trust.jks)
 
 Step 2: Add the .jks file to c:\ (or whatever is your main PC directory)
 
